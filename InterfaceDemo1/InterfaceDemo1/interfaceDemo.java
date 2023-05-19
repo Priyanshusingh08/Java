@@ -1,3 +1,5 @@
+package InterfaceDemo1;
+
 import java.util.Scanner;
 
 interface Demo{
