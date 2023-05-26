@@ -16,7 +16,6 @@ public class FileDemo {
         // try {
         //     myfile.createNewFile();
         // } catch (IOException e) {
-        //     // TODO Auto-generated catch block
         //     System.out.println(e);
         //     e.printStackTrace();
         // }
