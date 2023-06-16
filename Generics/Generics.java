@@ -22,6 +22,7 @@ class GenericsClass<T> {
   public GenericsClass(T data) {
     this.data = data;
   }
+  //zxc
 
 
   public T getData() {
