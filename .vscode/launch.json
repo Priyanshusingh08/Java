@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClass",
+            "request": "launch",
+            "mainClass": "AbstractClass.AbstractClass",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "EmployeeClass.Sample",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "FileDemo",
+            "request": "launch",
+            "mainClass": "FileDemo",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "Generics",
+            "request": "launch",
+            "mainClass": "Generics.Generics",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "interfaceDemo",
+            "request": "launch",
+            "mainClass": "InterfaceDemo1.interfaceDemo",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "MyClient",
+            "request": "launch",
+            "mainClass": "MyClient",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Programs.Main",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "addMatrics",
+            "request": "launch",
+            "mainClass": "Programs.addMatrics",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "findGivenNo",
+            "request": "launch",
+            "mainClass": "Programs.findGivenNo",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "missingelement",
+            "request": "launch",
+            "mainClass": "Programs.missingelement",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "multiplymatrices",
+            "request": "launch",
+            "mainClass": "Programs.multiplymatrices",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "reapeatingelement",
+            "request": "launch",
+            "mainClass": "Programs.reapeatingelement",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "reversearray",
+            "request": "launch",
+            "mainClass": "Programs.reversearray",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "sumofarray",
+            "request": "launch",
+            "mainClass": "Programs.sumofarray",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "SwingDemo",
+            "request": "launch",
+            "mainClass": "SwingDemo.SwingDemo",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "SyncDemo",
+            "request": "launch",
+            "mainClass": "Sync.SyncDemo",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "TypeCastDemo.demo",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "except",
+            "request": "launch",
+            "mainClass": "exceptionDemp.except",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "exp6",
+            "request": "launch",
+            "mainClass": "exp6.exp6",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "interfaceDemo(1)",
+            "request": "launch",
+            "mainClass": "interface1.interfaceDemo",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "largestnum",
+            "request": "launch",
+            "mainClass": "method.largestnum",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "multiplicationTable",
+            "request": "launch",
+            "mainClass": "multiplicationTable.multiplicationTable",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "patternRight",
+            "request": "launch",
+            "mainClass": "patternRightAngle.patternRight",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "primenum",
+            "request": "launch",
+            "mainClass": "primenum.primenum",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "resurciveSum",
+            "request": "launch",
+            "mainClass": "recursiveSum.resurciveSum",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "runnableDemo",
+            "request": "launch",
+            "mainClass": "runnableDemo.runnableDemo",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "square.square",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "threadDemo",
+            "request": "launch",
+            "mainClass": "threadDemo.threadDemo",
+            "projectName": "Java_5d9327e4"
+        },
+        {
+            "type": "java",
+            "name": "validBracket",
+            "request": "launch",
+            "mainClass": "validBracket.validBracket",
+            "projectName": "Java_5d9327e4"
+        }
+    ]
+}
