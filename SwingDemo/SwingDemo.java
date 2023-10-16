@@ -11,6 +11,7 @@ public class SwingDemo {
         f.add(b);
 
         f.setSize(400, 500);
+        
         f.setLayout(null);
         f.setVisible(true);
     }
